@@ -3,11 +3,35 @@
     <types>
         <members>AppCls01</members>
         <members>AppCls02</members>
+        <members>BusinessClass</members>
+        <members>BusinessClassTest</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Pen__c.CF1__c</members>
+        <members>Pen__c.CF2__c</members>
+        <members>Pen__c.CF3__c</members>
+        <name>CustomField</name>
     </types>
     <types>
         <members>lb1</members>
         <members>lb2</members>
         <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>Pen__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Pen__c.All</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>PS1</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <name>Profile</name>
     </types>
 </Package>
