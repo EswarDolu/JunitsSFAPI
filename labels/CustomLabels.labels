@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>lb1</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>lb1</shortDescription>
+        <value>111
+1
+12
+2
+3
+4</value>
+    </labels>
+    <labels>
+        <fullName>lb2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>lb2</shortDescription>
+        <value>aa
+bb
+cc
+dd
+ee
+ff</value>
+    </labels>
+</CustomLabels>
